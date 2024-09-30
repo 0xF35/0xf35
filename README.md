@@ -1,5 +1,5 @@
 ### Guess who's here? It's Dhruval 👋🏼
-Crafting code with a purpose, not just for show.
+*Building code that makes waves, not just another basic programming exercise.*
 
 ### About Me ✨
 - 👀 Obsessed with cracking codes, poking around in cybersecurity, and occasionally dabbling in backend dev.
