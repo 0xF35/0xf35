@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=0xf35&style=for-the-badge)
 ### Guess who's here? It's Dhruval 👋🏼
 *Building code that makes waves, not just another basic programming exercise.*
 
