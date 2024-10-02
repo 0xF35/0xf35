@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=0xf35&style=for-the-badge)
-![](https://img.shields.io/github/followers/0xf35?logo=github&style=for-the-badge&color=3382ed&labelColor=000000)
+![](https://img.shields.io/github/followers/0xf35?logo=github&style=for-the-badge&color=007ec6&labelColor=555)
+![](https://img.shields.io/github/stars/0xf35?logo=github&style=for-the-badge&color=007ec6&labelColor=555)
 ### Guess who's here? It's Dhruval 👋🏼
 *Building code that makes waves, not just another basic programming exercise.*
 
