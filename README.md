@@ -14,3 +14,6 @@
 ### You Think You've Seen It All? Think Again.
 - [Hidden Tools](https://hidden-tools.vercel.app/) - Bet you didn’t know half of these tools even existed. Go ahead, discover what you’ve been missing.
 - [Token v1](https://token-v1.vercel.app/) - Your passwords are a joke. Upgrade your security game before someone else does.
+
+### Tools & Technologies I Use 🔧
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,mistral,heroku,devto,mongodb,vercel,mongoose,mysql,vim,regex,html,netlify,anaconda,androidstudio,vscode,replit,huggingface,django,ngrok,nodejs,duckduckgo,illustrator,npm,numpy,windows,word,eclipse,arduino,inkscape,safari,wsl,ollama,atom,ipfs,onedrive,xd,javascript,pandas,fastapi,jupyter,figma,firebase,blender,photoshop,brave,flask,stackoverflow,sublime,gemini,svg,postman,git,powershell,tailwindcss,githubcopilot,github,githubpages,codepen,proton,markdown,pug,matplotlib,python,tor,dart,qt,raspberrypi,ubuntu,typescript,chatgpt&titles=true)
